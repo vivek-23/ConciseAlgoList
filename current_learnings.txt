@@ -1,0 +1,22 @@
+Topological sort - Done
+Dijkstra's algorithm - Done
+Bellman Ford - Done
+Floyd's Algorithm - Done
+Manacher's Algorithm
+KMP Algorithm
+Rabin Karp Algorithm
+Binary Indexed Tree
+Segment Tree
+Z Algorithm
+Fisher Yates Algorithm
+Aho Corasick Algorithm
+Suffix Arrays
+Sorting Algorithms:
+  Quick Sort
+  Merge Sort
+  Bubble Sort
+  Insertion Sort
+  Selection Sort
+  Bucket Sort
+  Radix Sort
+  Shell Sort
