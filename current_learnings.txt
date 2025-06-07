@@ -4,7 +4,7 @@ Bellman Ford - Done
 Floyd's Algorithm - Done
 Manacher's Algorithm
 KMP Algorithm
-Rabin Karp Algorithm
+Rabin Karp Algorithm - Done
 Binary Indexed Tree
 Segment Tree
 Z Algorithm
